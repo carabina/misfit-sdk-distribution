@@ -1,0 +1,6 @@
+framework module ShineSDKPartner {
+  umbrella header "ShineSDKPartner.h"
+
+  export *
+  module * { export * }
+}
