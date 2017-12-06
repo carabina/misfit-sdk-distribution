@@ -1,0 +1,6 @@
+framework module MSLFramework {
+  umbrella header "MSLFramework.h"
+
+  export *
+  module * { export * }
+}
